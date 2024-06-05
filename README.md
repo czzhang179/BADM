@@ -1,6 +1,6 @@
 # BADM
 
-#This is the repository that contains source code for the [BADM website](https://badm.github.io).
+%This is the repository that contains source code for the [BADM website](https://badm.github.io).
 
 If you find BADM useful for your work please cite:
 ```
